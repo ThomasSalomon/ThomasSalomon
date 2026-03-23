@@ -1,7 +1,7 @@
 <div align="center">
 
 # Thomas Salomon
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JavaScript+·+TypeScript;React+·+Next.js+·+Node.js;Estudiante+de+Ingeniería+de+Sistemas" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JavaScript+%C2%B7+TypeScript;React+%C2%B7+Next.js+%C2%B7+Node.js;Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Thomas Salomon - Full Stack Developer" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ThomasSalomon?label=Seguidores&style=social)](https://github.com/ThomasSalomon)
 [![GitHub stars](https://img.shields.io/github/stars/ThomasSalomon?label=Estrellas&style=social)](https://github.com/ThomasSalomon)
