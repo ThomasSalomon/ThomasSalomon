@@ -119,20 +119,6 @@ Aplicación full stack para gestión y seguimiento de listas de participantes co
 
 ---
 
-## ✨ Efectos especiales en este README (widgets de GitHub)
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Construyendo+proyectos+reales+y+recreativos)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ThomasSalomon&theme=tokyonight&hide_border=true&locale=es)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ThomasSalomon&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
