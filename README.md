@@ -1,11 +1,11 @@
 <div align="center">
 
 # 👋 Hola, soy Thomas Salomon
-
-### Desarrollador Full Stack | JavaScript · TypeScript · React · Next.js
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JS+·+TS+·+React+·+Next.js;Ingeniero+en+Sistemas+en+formación" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ThomasSalomon?label=Seguidores&style=social)](https://github.com/ThomasSalomon)
 [![GitHub stars](https://img.shields.io/github/stars/ThomasSalomon?label=Estrellas&style=social)](https://github.com/ThomasSalomon)
+![Visitors](https://komarev.com/ghpvc/?username=ThomasSalomon&color=blueviolet&style=flat-square&label=VISITAS)
 
 </div>
 
@@ -13,134 +13,78 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador Full Stack apasionado por construir aplicaciones web completas y funcionales. Me especializo en el ecosistema JavaScript/TypeScript, trabajando tanto en el frontend con React y Next.js como en el backend con Node.js y Express. Me encanta resolver problemas reales con código limpio y arquitecturas bien pensadas.
+Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sistemas** en Córdoba, Argentina. Me apasiona construir aplicaciones web completas utilizando el ecosistema **JavaScript/TypeScript**, priorizando siempre el código limpio y la experiencia de usuario.
 
-- 🔭 Trabajo en aplicaciones web full stack con Next.js, React y Node.js
-- 🌱 Siempre aprendiendo y mejorando en TypeScript, bases de datos y patrones de arquitectura
-- 💡 Me interesa crear sistemas de gestión, plataformas de usuarios y herramientas web útiles
-- 🌍 Basado en Sudamérica
+- 🔭 **Enfoque actual:** Apps escalables con Next.js 15 y arquitecturas robustas.
+- 🌱 **Evolución continua:** Perfeccionando patrones de diseño y optimización de performance.
+- 💡 **Intereses:** Sistemas de gestión médica, plataformas interactivas y automatización.
+- 🌍 **Ubicación:** Basado en Sudamérica (Córdoba, Argentina).
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack Tecnológico
 
-### Lenguajes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Herramientas & Librerías
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <strong>Lenguajes</strong><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center" width="200">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Proyectos Destacados
 
----
-
-### 🩺 Repositorio del **Dr. Guillermo Martini** — Trabajo Real (Proyecto Profesional)
-
-Este repositorio corresponde a un trabajo real desarrollado para el **Dr. Guillermo Martini**.
-El proyecto está enfocado en digitalizar y ordenar la presencia profesional del consultorio, con una solución web pensada para pacientes y administración.
-
-**Puntos clave del proyecto:**
-- ✅ Trabajo real para cliente
-- ✅ Requerimientos funcionales definidos por el Dr. Guillermo Martini
-- ✅ Implementación y evolución sobre casos de uso reales
-- ✅ Estructura orientada a facilitar mantenimiento y futuras mejoras
-
-**Definición funcional del proyecto:**
-- 🧭 Presentación profesional clara de servicios y especialidades
-- 📍 Información de contacto y canales de consulta centralizados
-- 🗓️ Base para flujos de gestión de turnos/consultas según necesidades del cliente
-- 🔧 Iteraciones continuas con feedback directo para mejorar la experiencia de uso
+### 🩺 [Proyecto Profesional] — Dr. Guillermo Martini
+**Plataforma inmersiva para clínica estética.**
+- ✅ **Trabajo Real:** Digitalización completa del consultorio.
+- 🧭 **UX Optimizada:** Layouts dinámicos para visualización de tratamientos antes/después.
+- ⚡ **Performance:** Implementación de carga diferida y skeleton loaders para manejo masivo de medios.
+- **Stack:** `Next.js` · `Tailwind CSS` · `TypeScript` · `SQLite`.
 
 ---
 
-> ℹ️ **Aclaración importante:** todos los proyectos listados a continuación fueron **proyectos recreativos** (no trabajos reales).  
-> El único trabajo real es el repositorio del **Dr. Guillermo Martini** mencionado arriba.
+### 🗺️ [MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup)
+Sistema de inscripción con mapa interactivo y votación en tiempo real.
+- 🗳️ Actualizaciones optimistas y polling de 5s para resultados en vivo.
+
+### 🔐 [Password Manager](https://github.com/ThomasSalomon/gestor_de_contrase-as)
+Gestor de seguridad local con encriptación y soporte para temas.
 
 ---
 
-### 🗺️ [Inscripción MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup) — Sistema de Inscripción para Torneo Sudamericano
-
-Plataforma de inscripción y votación para un torneo internacional con mapa interactivo de Sudamérica, video gate y sistema de votación en tiempo real.
-
-**Características principales:**
-- 🗺️ Mapa SVG interactivo de Sudamérica con cupos por país en tiempo real
-- 🎬 Video gate obligatorio antes de acceder al formulario
-- 🗳️ Sistema de votación con actualización por polling cada 5 segundos
-- 📅 Integración con Calendly para agendar llamadas informativas
-- ⚡ Actualizaciones optimistas, debouncing y memoización para performance
-
-**Stack:** `Next.js 15` · `TypeScript` · `SQLite` · `Tailwind CSS v4` · `shadcn/ui`
-
----
-
-### 🔐 [Gestor de Contraseñas](https://github.com/ThomasSalomon/gestor_de_contrase-as) — Password Manager Web
-
-Gestor de contraseñas moderno y seguro con generador integrado, soporte para temas claro/oscuro y almacenamiento completamente local (sin servidor externo).
-
-**Características principales:**
-- 🎲 Generador de contraseñas seguras personalizable
-- 👁️ Visualización controlada y copia al portapapeles con un clic
-- 🗂️ Organización por dominio con notas adicionales
-- 🌙 Tema claro/oscuro completo
-- 📱 Responsive para móviles y desktop
-
-**Stack:** `Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Zod` · `React Hook Form`
-
----
-
-### 📋 [App Lista Chicos](https://github.com/ThomasSalomon/App_listaChicos) — Gestión de Listas
-
-Aplicación full stack para gestión y seguimiento de listas de participantes con backend y frontend desacoplados, soporte HTTPS y búsqueda avanzada.
-
-**Stack:** `JavaScript` · `Node.js` · `React`
-
----
-
-## 📊 Estadísticas de GitHub
+## 📊 Actividad & Estadísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ThomasSalomon&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSalomon&layout=compact&theme=tokyonight&locale=es&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Contacto
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ThomasSalomon-181717?style=for-the-badge&logo=github)](https://github.com/ThomasSalomon)
-
-</div>
-
----
-
-<div align="center">
+  <a href="https://github.com/ThomasSalomon">
+    <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
   <sub>⭐ Si alguno de mis proyectos te fue útil, ¡no olvides dejar una estrella!</sub>
 </div>
