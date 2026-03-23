@@ -55,34 +55,6 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web comple
 
 ## 📂 Proyectos Destacados
 
-### 🥊 [Corner Boss](https://github.com/ThomasSalomon/croner-boss) — Fantasy MMA Manager
-
-Plataforma de Fantasy Manager de MMA donde el usuario gestiona su propio gimnasio de artes marciales mixtas. Un proyecto full stack complejo con lógica de negocio avanzada.
-
-**Características principales:**
-- 🏋️ Gestión de gimnasio con roster de peleadores y contratos
-- 📈 Mercado dinámico con subastas ciegas y compraventa P2P
-- 🎯 Sistema de scoring granular por striking, grappling y resultados
-- 🏆 Ligas privadas con temporadas de 4 meses y draft serpiente
-- ⚡ Cron jobs para scraping y procesamiento de datos en tiempo real
-
-**Stack:** `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Redis` · `React` · `Vite` · `TailwindCSS`
-
----
-
-### ⚽ [ChicosAPP V2](https://github.com/ThomasSalomon/chicosAPP_V2) — Sistema de Gestión para Academia de Fútbol
-
-Sistema completo de administración para academias de fútbol con roles diferenciados, autenticación JWT y panel de control interactivo.
-
-**Características principales:**
-- 🔐 Sistema de autenticación con roles: Administrador, Entrenador y Padre
-- 👥 Registro completo de jugadores con datos personales y médicos
-- 🏆 Gestión de equipos por categorías (Sub-8 hasta Sub-16)
-- 📊 Dashboard con métricas clave y estadísticas en tiempo real
-- 📱 PWA instalable con funcionalidad offline
-
-**Stack:** `Next.js 14` · `TypeScript` · `SQLite` · `JWT` · `Tailwind CSS` · `Radix UI` · `Zod`
-
 ---
 
 ### 🗺️ [Inscripción MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup) — Sistema de Inscripción para Torneo Sudamericano
