@@ -57,6 +57,23 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web comple
 
 ---
 
+### 🩺 Repositorio del **Dr. Guillermo Martini** — Trabajo Real (Proyecto Profesional)
+
+Este repositorio corresponde a un trabajo real desarrollado para el **Dr. Guillermo Martini**.  
+Es un proyecto profesional orientado a resolver necesidades concretas del cliente, con enfoque en estabilidad, mantenimiento y entregas funcionales.
+
+**Puntos clave del proyecto:**
+- ✅ Trabajo real para cliente
+- ✅ Requerimientos funcionales definidos por el Dr. Guillermo Martini
+- ✅ Implementación y evolución sobre casos de uso reales
+
+---
+
+> ℹ️ **Aclaración importante:** todos los proyectos listados a continuación fueron **proyectos recreativos** (no trabajos reales).  
+> El único trabajo real es el repositorio del **Dr. Guillermo Martini** mencionado arriba.
+
+---
+
 ### 🗺️ [Inscripción MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup) — Sistema de Inscripción para Torneo Sudamericano
 
 Plataforma de inscripción y votación para un torneo internacional con mapa interactivo de Sudamérica, video gate y sistema de votación en tiempo real.
@@ -92,6 +109,16 @@ Gestor de contraseñas moderno y seguro con generador integrado, soporte para te
 Aplicación full stack para gestión y seguimiento de listas de participantes con backend y frontend desacoplados, soporte HTTPS y búsqueda avanzada.
 
 **Stack:** `JavaScript` · `Node.js` · `React`
+
+---
+
+## ✨ Efectos especiales (librerías recomendadas para futuras mejoras)
+
+- **Framer Motion**: animaciones de entrada/salida, transiciones de cards y microinteracciones.
+- **GSAP**: timelines avanzadas, efectos de scroll y animaciones complejas de alto rendimiento.
+- **Lottie**: animaciones vectoriales livianas para estados vacíos, loaders y feedback visual.
+- **tsParticles**: fondos interactivos con partículas para secciones hero.
+- **Three.js / React Three Fiber**: escenas 3D para presentaciones visuales más inmersivas.
 
 ---
 
