@@ -57,24 +57,23 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 - ⚡ **Performance:** Implementación de carga diferida y skeleton loaders para manejo masivo de medios.
 - **Stack:** `Next.js` · `Tailwind CSS` · `TypeScript` · `SQLite`.
 
-### 🗺️ [Inscripción MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup)
-Sistema de inscripción con mapa interactivo y votación en tiempo real.
-
-### 🔐 [Password Manager](https://github.com/ThomasSalomon/gestor_de_contrase-as)
-Gestor de seguridad local con encriptación y soporte para temas.
-
 ---
 
 ## 📊 Actividad & Estadísticas
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ThomasSalomon&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSalomon&layout=compact&theme=tokyonight&locale=es&hide_border=true)
 
 </div>
+
+---
+
+## 🎮 Intereses Personales
+- 🥊 Fanático de la **UFC** y las artes marciales mixtas.
+- 🏎️ Jugador de **Rocket League** y superviviente en **Project Zomboid**.
+- 🧟 Aficionado a la saga **Resident Evil**.
 
 ---
 
