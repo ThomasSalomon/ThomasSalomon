@@ -70,13 +70,6 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 
 ---
 
-## 🎮 Intereses Personales
-- 🥊 Fanático de la **UFC** y las artes marciales mixtas.
-- 🏎️ Jugador de **Rocket League** y superviviente en **Project Zomboid**.
-- 🧟 Aficionado a la saga **Resident Evil**.
-
----
-
 <div align="center">
   <a href="https://github.com/ThomasSalomon">
     <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
