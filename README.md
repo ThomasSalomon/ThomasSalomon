@@ -57,6 +57,12 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 - ⚡ **Performance:** Implementación de carga diferida y skeleton loaders para manejo masivo de medios.
 - **Stack:** `Next.js` · `Tailwind CSS` · `TypeScript` · `SQLite`.
 
+### 🗺️ [Inscripción MagicCup](https://github.com/ThomasSalomon/Inscripcion_MagicCup)
+Sistema de inscripción con mapa interactivo y votación en tiempo real.
+
+### 🔐 [Password Manager](https://github.com/ThomasSalomon/gestor_de_contrase-as)
+Gestor de seguridad local con encriptación y soporte para temas.
+
 ---
 
 ## 📊 Actividad & Estadísticas
