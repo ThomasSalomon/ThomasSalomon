@@ -59,13 +59,20 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web comple
 
 ### 🩺 Repositorio del **Dr. Guillermo Martini** — Trabajo Real (Proyecto Profesional)
 
-Este repositorio corresponde a un trabajo real desarrollado para el **Dr. Guillermo Martini**.  
-Es un proyecto profesional orientado a resolver necesidades concretas del cliente, con enfoque en estabilidad, mantenimiento y entregas funcionales.
+Este repositorio corresponde a un trabajo real desarrollado para el **Dr. Guillermo Martini**.
+El proyecto está enfocado en digitalizar y ordenar la presencia profesional del consultorio, con una solución web pensada para pacientes y administración.
 
 **Puntos clave del proyecto:**
 - ✅ Trabajo real para cliente
 - ✅ Requerimientos funcionales definidos por el Dr. Guillermo Martini
 - ✅ Implementación y evolución sobre casos de uso reales
+- ✅ Estructura orientada a facilitar mantenimiento y futuras mejoras
+
+**Definición funcional del proyecto:**
+- 🧭 Presentación profesional clara de servicios y especialidades
+- 📍 Información de contacto y canales de consulta centralizados
+- 🗓️ Base para flujos de gestión de turnos/consultas según necesidades del cliente
+- 🔧 Iteraciones continuas con feedback directo para mejorar la experiencia de uso
 
 ---
 
@@ -112,13 +119,17 @@ Aplicación full stack para gestión y seguimiento de listas de participantes co
 
 ---
 
-## ✨ Efectos especiales (librerías recomendadas para futuras mejoras)
+## ✨ Efectos especiales en este README (widgets de GitHub)
 
-- **Framer Motion**: animaciones de entrada/salida, transiciones de cards y microinteracciones.
-- **GSAP**: timelines avanzadas, efectos de scroll y animaciones complejas de alto rendimiento.
-- **Lottie**: animaciones vectoriales livianas para estados vacíos, loaders y feedback visual.
-- **tsParticles**: fondos interactivos con partículas para secciones hero.
-- **Three.js / React Three Fiber**: escenas 3D para presentaciones visuales más inmersivas.
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Construyendo+proyectos+reales+y+recreativos)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ThomasSalomon&theme=tokyonight&hide_border=true&locale=es)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ThomasSalomon&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
 
 ---
 
