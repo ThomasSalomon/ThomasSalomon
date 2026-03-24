@@ -1,61 +1,46 @@
 <div align="center">
 
 # Thomas Salomon
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JavaScript+%C2%B7+TypeScript;React+%C2%B7+Next.js+%C2%B7+Node.js;Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Thomas Salomon - Full Stack Developer" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JavaScript+%C2%B7+TypeScript;React+19+%C2%B7+Vite+7+%C2%B7+Node.js;Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Thomas Salomon - Full Stack Developer" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ThomasSalomon?label=Seguidores&style=social)](https://github.com/ThomasSalomon)
 [![GitHub stars](https://img.shields.io/github/stars/ThomasSalomon?label=Estrellas&style=social)](https://github.com/ThomasSalomon)
 ![Visitors](https://komarev.com/ghpvc/?username=ThomasSalomon&color=3178C6&style=flat-square&label=VISITAS)
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasSalomon&theme=react&hide_border=true&border_radius=10&bg_color=0D1117&color=61DAFB&line=3178C6&point=FFFFFF&area=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4Zndmcm5tMzVibHR4bmZtYWtxbW1nbnZxdHpwZndmeHlxbm9wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K544W4T3G8M/giphy.gif" width="25"> Sobre mí
 
-Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sistemas** en Córdoba, Argentina. Mi enfoque está en construir aplicaciones web robustas y escalables, combinando tecnologías modernas de frontend con una lógica de backend sólida y bases de datos optimizadas.
+Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sistemas** en Córdoba, Argentina. Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando las versiones más recientes de cada tecnología para garantizar escalabilidad y una experiencia de usuario fluida.
 
-- 🔭 **Enfoque actual:** Apps escalables con Next.js 15 y arquitecturas robustas.
-- 🗄️ **Dominio de Datos:** Experiencia en diseño de esquemas, consultas avanzadas y automatización mediante **Triggers en SQL Server**.
-- 🌱 **Evolución continua:** Perfeccionando patrones de diseño y optimización de performance.
+- 🔭 **Enfoque actual:** Interfaces de alto impacto con **React 19** y animaciones complejas.
+- 🗄️ **Dominio de Datos:** Diseño de esquemas y automatización con **Triggers en SQL Server**.
+- ⚡ **Optimización de Assets:** Experiencia avanzada en pipelines de imágenes (Sharp, Imagetools) y PWA.
 - 🌍 **Ubicación:** Basado en Sudamérica (Córdoba, Argentina).
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpnbG9scnhzbm5udjQ2ZnN2YzRyZzdudXJ1eXBzaWF6NHZ6NmdveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICO80rXp3X2JbYlYq8/giphy.gif" width="25"> Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <td align="center" width="230">
-      <strong>Lenguajes</strong><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center" width="230">
-      <strong>Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td align="center" width="230">
-      <strong>Backend & DB</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=typescript,javascript,react,vite,nextjs,tailwindcss&line2=nodejs,microsoftsqlserver,postgresql,prisma,redis,git&theme=tokyonight" alt="Tech Stack Animado" />
+</div>
 
 ---
 
-## 📂 Proyectos Destacados
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVwY3NqamRxcm93dmhscndwZnFpYWpxdmFxeHpqZnUwdHFyZHNncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vA5mj89K6bB95M_m0W/giphy.gif" width="25"> Proyecto Destacado
 
 ### 🩺 [Proyecto Profesional] — Dr. Guillermo Martini
-**Plataforma inmersiva para clínica estética.**
-- ✅ **Trabajo Real:** Digitalización completa del consultorio del Dr. Guillermo Martini.
-- 🧭 **UX Optimizada:** Layouts dinámicos para visualización de tratamientos antes/después.
-- ⚡ **Performance:** Implementación de carga diferida y skeleton loaders para manejo masivo de medios.
-- **Stack:** `Next.js` · `Tailwind CSS` · `TypeScript` · `SQLite`.
+**Plataforma inmersiva y PWA para clínica estética.**
+- ✅ **Performance Extrema:** Pipeline con **Sharp** para carga instantánea.
+- 🎨 **Animaciones High-End:** Experiencia visual fluida con **GSAP 3** y **Framer Motion 12**.
+- **Stack:** `React 19` · `Tailwind v4` · `Vite 7` · `ESLint 9`.
 
 ---
 
@@ -63,7 +48,7 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSalomon&layout=compact&theme=tokyonight&locale=es&hide_border=true)
 
 </div>
