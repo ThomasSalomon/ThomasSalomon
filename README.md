@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://github.com/ThomasSalomon.png" width="180" alt="Thomas Salomon" style="border-radius: 50%; border: 4px solid #3178C6;" />
   <br/><br/>
-  <h3><b>Estudiante de 4to año de Ingeniería en Sistemas apasionado por el desarrollo Full Stack y la performance web. En búsqueda activa de mi primera pasantía profesional.</b></h3>
+  <h3><b>Estudiante de 4to año de Ingeniería en Sistemas apasionado por el desarrollo Full Stack y la performance web. En búsqueda activa de seguir expandiendo mi experiencia laboral.</b></h3>
   <br/>
   <a href="https://github.com/ThomasSalomon">
     <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
