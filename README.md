@@ -34,7 +34,6 @@ Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando l
 - 🔭 **Enfoque actual:** Interfaces de alto impacto con **React 19** y animaciones complejas.
 - 🗄️ **Dominio de Datos:** Diseño de esquemas y automatización con **Triggers en SQL Server**.
 - ⚡ **Optimización de Assets:** Experiencia avanzada en pipelines de imágenes (Sharp, Imagetools) y PWA.
-- 🌍 **Ubicación:** Córdoba, Argentina.
 
 ---
 
@@ -89,7 +88,7 @@ Este repositorio corresponde a un trabajo real desarrollado para el <strong>Dr. 
 
 <br/>
 
-> ℹ️ **Aclaración importante:** todos los proyectos listados a continuación fueron **proyectos recreativos** (no trabajos reales). El único trabajo real es el repositorio del **Dr. Guillermo Martini** mencionado arriba.
+> ℹ️ **Aclaración importante:** El resto de proyectos de mi perfil son recreativos, no son para un cliente real, incluso muchos de ellos quedaron varados por falta de tiempo :). El único trabajo real es el de **Dr. Guillermo Martini** mencionado arriba, que esta pronto a salir a produccion.
 
 ---
 
