@@ -9,6 +9,30 @@
 
 <br/>
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/ThomasSalomon">
+        <img src="https://github.com/ThomasSalomon.png" width="180" alt="Thomas Salomon" style="border-radius: 50%; border: 4px solid #3178C6;" />
+      </a>
+    </td>
+    <td align="center" width="500">
+      <h3><b>¡Hola, soy Thomas!</b></h3>
+      <p>Estudiante de 4to año de Ingeniería en Sistemas apasionado por el desarrollo Full Stack y la performance web. En búsqueda activa de mi primera pasantía profesional.</p>
+      <br/>
+      <a href="https://github.com/ThomasSalomon">
+        <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      &nbsp; &nbsp;
+      <a href="TU_LINK_DE_LINKEDIN_AQUI">
+        <img src="https://img.shields.io/badge/LinkedIn-Thomas_Salomon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasSalomon&theme=react&hide_border=true&border_radius=10&bg_color=0D1117&color=61DAFB&line=3178C6&point=FFFFFF&area=true" width="100%" alt="Activity Graph" />
 
 </div>
@@ -17,12 +41,12 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4Zndmcm5tMzVibHR4bmZtYWtxbW1nbnZxdHpwZndmeHlxbm9wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K544W4T3G8M/giphy.gif" width="25"> Sobre mí
 
-Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sistemas** en Córdoba, Argentina. Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando las versiones más recientes de cada tecnología para garantizar escalabilidad y una experiencia de usuario fluida.
+Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando las versiones más recientes de cada tecnología para garantizar escalabilidad y una experiencia de usuario fluida.
 
 - 🔭 **Enfoque actual:** Interfaces de alto impacto con **React 19** y animaciones complejas.
 - 🗄️ **Dominio de Datos:** Diseño de esquemas y automatización con **Triggers en SQL Server**.
 - ⚡ **Optimización de Assets:** Experiencia avanzada en pipelines de imágenes (Sharp, Imagetools) y PWA.
-- 🌍 **Ubicación:** Basado en Sudamérica (Córdoba, Argentina).
+- 🌍 **Ubicación:** Córdoba, Argentina.
 
 ---
 
@@ -38,7 +62,7 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 
 ### 🩺 [Proyecto Profesional] — Dr. Guillermo Martini
 **Plataforma inmersiva y PWA para clínica estética.**
-- ✅ **Performance Extrema:** Pipeline con **Sharp** para carga instantánea.
+- ✅ **Performance Extrema:** Pipeline con **Sharp** e **Imagetools** para carga instantánea.
 - 🎨 **Animaciones High-End:** Experiencia visual fluida con **GSAP 3** y **Framer Motion 12**.
 - **Stack:** `React 19` · `Tailwind v4` · `Vite 7` · `ESLint 9`.
 
@@ -56,7 +80,5 @@ Soy un desarrollador Full Stack y estudiante de **4to año de Ingeniería en Sis
 ---
 
 <div align="center">
-  <a href="https://github.com/ThomasSalomon">
-    <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <sub>⭐ Si alguno de mis proyectos te fue útil, ¡no olvides dejar una estrella!</sub>
 </div>
