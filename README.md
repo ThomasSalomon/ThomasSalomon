@@ -73,6 +73,7 @@ Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando l
 
 <details open>
 <summary>🩺 [Proyecto Profesional] — Dr. Guillermo Martini</summary>
+  https://drguillermomartini.com/
 Este repositorio corresponde a un trabajo real desarrollado para el <strong>Dr. Guillermo Martini</strong>. El proyecto está enfocado en digitalizar y ordenar la presencia profesional del consultorio, con una solución web pensada para pacientes y administración.
 
 **Puntos clave:**
@@ -88,7 +89,7 @@ Este repositorio corresponde a un trabajo real desarrollado para el <strong>Dr. 
 
 <br/>
 
-> ℹ️ **Aclaración importante:** El resto de proyectos de mi perfil son recreativos, no son para un cliente real, incluso muchos de ellos quedaron varados por falta de tiempo :). El único trabajo real es el de **Dr. Guillermo Martini** mencionado arriba, que esta pronto a salir a produccion.
+> ℹ️ **Aclaración importante:** El resto de proyectos de mi perfil son recreativos, no son para un cliente real, incluso muchos de ellos quedaron varados por falta de tiempo :). El único trabajo real es el de **Dr. Guillermo Martini** mencionado arriba.
 
 ---
 
