@@ -1,109 +1,84 @@
 <div align="center">
-
-# 👋 Hola, soy Thomas Salomon
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;JavaScript+%C2%B7+TypeScript;React+19+%C2%B7+Vite+7+%C2%B7+Node.js;Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Thomas Salomon - Full Stack Developer" />
-
-[![GitHub followers](https://img.shields.io/github/followers/ThomasSalomon?label=Seguidores&style=social)](https://github.com/ThomasSalomon)
-[![GitHub stars](https://img.shields.io/github/stars/ThomasSalomon?label=Estrellas&style=social)](https://github.com/ThomasSalomon)
-![Visitors](https://komarev.com/ghpvc/?username=ThomasSalomon&color=3178C6&style=flat-square&label=VISITAS)
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/ThomasSalomon.png" width="180" alt="Thomas Salomon" style="border-radius: 50%; border: 4px solid #3178C6;" />
-  <br/><br/>
-  <h3><b>Estudiante de 4to año de Ingeniería en Sistemas apasionado por el desarrollo Full Stack y la performance web. En búsqueda activa de seguir expandiendo mi experiencia laboral.</b></h3>
-  <br/>
   <a href="https://github.com/ThomasSalomon">
-    <img src="https://img.shields.io/badge/Conectar_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github.com/ThomasSalomon.png" width="104" alt="Thomas Salomon" />
   </a>
-  &nbsp; &nbsp;
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Thomas_Salomon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <h1>Thomas Salomon</h1>
+  <p><strong>Estudiante de Ingeniería en Sistemas · Desarrollo web full stack</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=3178C6&center=true&vCenter=true&width=580&lines=Rendimiento+web+%C2%B7+arquitectura+%C2%B7+productos+digitales" alt="Rendimiento web, arquitectura y productos digitales" />
+  <br />
+  <br />
+  <a href="https://www.linkedin.com/in/thomas-salomon-wendler/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thomas%20Salomon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn de Thomas Salomon" />
+  </a>
+  <a href="mailto:salomonwendler1105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-3178C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un correo a Thomas Salomon" />
   </a>
 </div>
 
-</div>
+## Perfil
 
----
+Estoy cursando el 4.º año de Ingeniería en Sistemas de Información en la UTN FRC. Desarrollo aplicaciones web con una mirada full stack, con foco en rendimiento, arquitectura modular y experiencia de usuario.
 
-## 🚀 Sobre mí
+- Trabajo con interfaces interactivas, optimización de carga y gestión eficiente de recursos multimedia.
+- Integro frontend, backend y datos relacionales o no relacionales según las necesidades del producto.
+- Audito, diagnostico y refactorizo código, incluido código generado mediante herramientas de IA.
 
-Mi enfoque está en construir aplicaciones web de alto rendimiento, utilizando las versiones más recientes de cada tecnología para garantizar escalabilidad y una experiencia de usuario fluida.
+## Tecnologías
 
-- 🔭 **Enfoque actual:** Interfaces de alto impacto con **React 19** y animaciones complejas.
-- 🗄️ **Dominio de Datos:** Diseño de esquemas y automatización con **Triggers en SQL Server**.
-- ⚡ **Optimización de Assets:** Experiencia avanzada en pipelines de imágenes (Sharp, Imagetools) y PWA.
+**Lenguajes**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🛠️ Stack Tecnológico
+**Desarrollo web**
 
-<p align="left">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Lenguajes
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Datos y herramientas**
 
-### Frontend (Latest Stack)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+También trabajo con Hibernate, H2, microservicios, Swagger, Framer Motion, ESLint, PWA, Google Analytics, Salesforce y flujos de n8n.
 
-### Bases de Datos
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## Experiencia
 
-### Herramientas
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007888?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### [Desarrollador Web — Clínica Estética Dr. Guillermo Martini](https://drguillermomartini.com/)
 
-</p>
+`Freelance · remoto`
 
-</p>
----
+Participé en el desarrollo desde cero de la plataforma web de una clínica estética, asumiendo decisiones técnicas, implementación y revisión crítica de código asistido por IA.
 
-## 📂 Proyecto Destacado
+- Reduje el peso de la página inicial un **93 %**, hasta **146 KB**, y ajusté Core Web Vitals para alcanzar cargas inferiores a **1,5 segundos** (score 90–95).
+- Optimicé la galería con WebP y `srcset`, reduciendo el peso de las imágenes un **91 %** sin pérdida visual.
+- Refactoricé la integración de WhatsApp en un módulo centralizado y apliqué *bundle splitting* con carga diferida de animaciones GSAP para priorizar la interactividad.
 
-<details open>
-<summary>🩺 [Proyecto Profesional] — Dr. Guillermo Martini</summary>
-  https://drguillermomartini.com/
-Este repositorio corresponde a un trabajo real desarrollado para el <strong>Dr. Guillermo Martini</strong>. El proyecto está enfocado en digitalizar y ordenar la presencia profesional del consultorio, con una solución web pensada para pacientes y administración.
+## Proyecto destacado
 
-**Puntos clave:**
-- ✅ Trabajo real para cliente
-- ✅ Implementación y evolución sobre casos de uso reales
-- ✅ Estructura orientada a facilitar mantenimiento y futuras mejoras
+### [Ride the Music (MusicBox)](https://ridethemusic.vercel.app/es)
 
-**Definición funcional:**
-- 🧭 Presentación profesional clara de servicios y especialidades
-- 🗓️ Base para flujos de gestión de turnos/consultas según necesidades del cliente
-- 🔧 Iteraciones continuas con feedback directo
-</details>
+Proyecto personal full stack para calificar, reseñar y registrar álbumes musicales, inspirado en el modelo de Letterboxd.
 
-<br/>
+- Arquitectura creada con **Next.js 14**, diseño modular y una interfaz interactiva.
+- Efectos 3D de alto rendimiento con transformaciones CSS y `requestAnimationFrame`, sin bloquear el ciclo de renderizado de React.
+- Base de datos Edge con **Turso y Prisma**, autenticación JWT propia mediante cookies `HttpOnly` y middleware de Next.js.
+- Diseño por servicios para futuras integraciones y prevención de riesgos OWASP, como *Mass Assignment* y XSS.
 
-> ℹ️ **Aclaración importante:** El resto de proyectos de mi perfil son recreativos, no son para un cliente real, incluso muchos de ellos quedaron varados por falta de tiempo :). El único trabajo real es el de **Dr. Guillermo Martini** mencionado arriba.
+## Formación
 
----
+**Ingeniería en Sistemas de Información** · 4.º año en curso
 
-## 📊 Actividad & Estadísticas
+Universidad Tecnológica Nacional — Facultad Regional Córdoba (UTN FRC)
 
-<div align="center">
+## Idiomas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSalomon&layout=compact&theme=tokyonight&locale=es&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasSalomon&show_icons=true&theme=tokyonight&locale=es&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Si alguno de mis proyectos te fue útil, ¡no olvides dejar una estrella!</sub>
-</div>
+Español nativo · Inglés B1 · Italiano A2
