@@ -64,7 +64,7 @@ Participé en el desarrollo desde cero de la plataforma web de una clínica est�
 
 ## Proyecto destacado
 
-### [Ride the Music (MusicBox)](https://ridethemusic.vercel.app/es)
+### [Ride the Music](https://ridethemusic.vercel.app/es)
 
 Proyecto personal full stack para calificar, reseñar y registrar álbumes musicales, inspirado en el modelo de Letterboxd.
 
